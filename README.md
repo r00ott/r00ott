@@ -14,6 +14,8 @@
 
 
 
+
+
 <p align="left"> <a href="https://twitter.com/popasb" target="blank"><img src="https://img.shields.io/twitter/follow/popasb?logo=twitter&style=for-the-badge" alt="popasb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -25,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
