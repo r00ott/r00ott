@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-A passionate Front-end developer 
+<p>A passionate Front-end developer</p>
 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=r00ott&label=Profile%20views&color=0e75b6&style=flat" alt="r00ott" /> </a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
