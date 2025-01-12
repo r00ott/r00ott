@@ -16,7 +16,7 @@
 
 
 
-<p align="left"> <a href="https://x.com/popasb" target="blank"><img src="[https://img.shields.io/x/follow/popasb?logo=twitter&style=for-the-badge](https://img.shields.io/twitter/follow/popasb?logo=x&style=for-the-badge)" alt="popasb" /></a> </p>
+<p align="left"> <a href="https://x.com/popasb" target="blank"><img src="https://img.shields.io/twitter/follow/popasb?logo=x&style=for-the-badge" alt="popasb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
