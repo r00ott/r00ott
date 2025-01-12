@@ -63,9 +63,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r00ott&" alt="r00ott" /></p>
 
 <h3 align="center">Support:</h3>
-<p style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">
   <a href="https://www.buymeacoffee.com/r00ott" target="_blank" rel="noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="r00ott" />
   </a>
-</p>
+</div>
 <br><br>
