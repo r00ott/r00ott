@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/popasb" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-black-icon.png" alt="popasb" height="30" width="40" /></a>
+<a href="https://x.com/popasb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/dark/twitter-x.svg" alt="popasb" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/popasb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="popasb" height="30" width="40" /></a>
 </p>
 
