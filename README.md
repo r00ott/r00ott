@@ -19,11 +19,7 @@
 
 <p align="left"> <a href="https://x.com/popasb" target="blank"><img src="https://img.shields.io/twitter/follow/popasb?logo=x&style=for-the-badge" alt="popasb" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/popasb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/dark/twitter-x.svg" alt="popasb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/popasb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="popasb" height="30" width="40" /></a>
-</p>
+
 
 <a href='https://ko-fi.com/r00ott' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br>
 
