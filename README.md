@@ -34,9 +34,6 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/javascript?viewbox=auto" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/Bootstrap?viewbox=auto" alt="bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/css3?viewbox=auto" alt="css3" width="40" height="40"/>
   </a>
