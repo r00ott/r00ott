@@ -24,31 +24,7 @@
 <a href='https://ko-fi.com/r00ott' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/react?viewbox=auto" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/javascript?viewbox=auto" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/css3?viewbox=auto" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/html5?viewbox=auto" alt="html5" width="40" height="40"/>
-  </a>
- 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/mongodb?viewbox=auto" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/postman?viewbox=auto" alt="postman" width="40" height="40"/>
-  </a>
-  
-</p>
+
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
@@ -62,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="storybook logo"  />
 </div>
 
